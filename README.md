@@ -62,6 +62,6 @@ Ibrahim Ambale | ExploreAI Academy
 
 Training future data analysts, one SQL query at a time.
 ---
-📄 License
+##📄 License
 This project is licensed for educational use under the MIT License.
 ---
